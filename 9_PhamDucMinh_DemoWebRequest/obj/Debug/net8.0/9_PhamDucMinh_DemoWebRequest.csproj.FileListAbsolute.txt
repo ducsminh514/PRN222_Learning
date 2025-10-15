@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\bin\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.exe
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\bin\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.deps.json
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\bin\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.runtimeconfig.json
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\bin\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.dll
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\bin\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.pdb
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.dll
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\refint\9_PhamDucMinh_DemoWebRequest.dll
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.pdb
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\9_PhamDucMinh_DemoWebRequest.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_DemoWebRequest\obj\Debug\net8.0\ref\9_PhamDucMinh_DemoWebRequest.dll

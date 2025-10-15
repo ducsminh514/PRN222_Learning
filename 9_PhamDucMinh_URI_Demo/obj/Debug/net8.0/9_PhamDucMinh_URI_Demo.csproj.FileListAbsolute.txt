@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\bin\Debug\net8.0\9_PhamDucMinh_URI_Demo.exe
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\bin\Debug\net8.0\9_PhamDucMinh_URI_Demo.deps.json
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\bin\Debug\net8.0\9_PhamDucMinh_URI_Demo.runtimeconfig.json
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\bin\Debug\net8.0\9_PhamDucMinh_URI_Demo.dll
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\bin\Debug\net8.0\9_PhamDucMinh_URI_Demo.pdb
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\9_PhamDucMinh_URI_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\9_PhamDucMinh_URI_Demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\9_PhamDucMinh_URI_Demo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\9_PhamDucMinh_URI_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\9_PhamDucMinh_URI_Demo.dll
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\refint\9_PhamDucMinh_URI_Demo.dll
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\9_PhamDucMinh_URI_Demo.pdb
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\9_PhamDucMinh_URI_Demo.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\9_PhamDucMinh_Demo\9_PhamDucMinh_URI_Demo\obj\Debug\net8.0\ref\9_PhamDucMinh_URI_Demo.dll
